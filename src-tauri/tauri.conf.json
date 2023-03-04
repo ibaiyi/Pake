@@ -6,12 +6,12 @@
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
-        "transparent": true,
+        "url": "http://192.168.1.250/callnumber/#/login?wardId=192.168.1.3",
+        "transparent": false,
         "fullscreen": false,
-        "width": 1200,
-        "height": 780,
-        "resizable": true
+        "width": 444,
+        "height": 828,
+        "resizable": false
       }
     ],
     "security": {
